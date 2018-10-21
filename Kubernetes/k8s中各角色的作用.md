@@ -1,7 +1,7 @@
 ## k8s总体架构图
-![k8s图1](https://raw.githubusercontent.com/yanming-zhang/Study-Notes/master/resources/k8s-1.png)
+![k8s图1](https://raw.githubusercontent.com/yanming-zhang/Study_Notes/master/resources/k8s-1.png)
 
-![k8s图2](https://raw.githubusercontent.com/yanming-zhang/Study-Notes/master/resources/k8s-2.png)
+![k8s图2](https://raw.githubusercontent.com/yanming-zhang/Study_Notes/master/resources/k8s-2.png)
 
 ## 当使用kubectl或调用kube-apiserver提供的api创建pod和service时，工作流程如下：
 * kube-apiserver，把相关的pod和service配置存储到etcd中。
